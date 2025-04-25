@@ -1,5 +1,5 @@
-Project Roadmap: Multiple Choice Python Quiz
-🧠 1. Plan the Basics
+Project Roadmap: Python Quiz
+1. Plan the Basics
 Goal: Console-based quiz where users answer multiple-choice questions.
 
 Decide on the number of questions.
@@ -8,7 +8,7 @@ Questions format: Each has a question, 4 options, and a correct answer.
 
 Scoring: +1 for correct, 0 for wrong.
 
-🗂️ 2. Organize Your Data
+2. Organize Your Data
 Task: Store quiz questions in a structured format.
 
 ✅ To Do:
