@@ -11,7 +11,7 @@ Scoring: +1 for correct, 0 for wrong.
 2. Organize Your Data
 Task: Store quiz questions in a structured format.
 
-✅ To Do:
+To Do:
 
 Use a list of dictionaries:
 
@@ -27,7 +27,7 @@ questions = [
  3. Build the Quiz Logic
 Task: Display questions and collect user input.
 
-✅ To Do:
+To Do:
 
 Use a loop to go through each question.
 
@@ -42,7 +42,7 @@ Keep score.
  4. Add Feedback and Score
 Task: Show correct/incorrect and final result.
 
-✅ To Do:
+To Do:
 
 Show feedback after each question.
 
@@ -51,7 +51,7 @@ Display final score at the end.
  5. Clean Up the User Interface
 Task: Improve readability.
 
-✅ To Do:
+To Do:
 
 Add line breaks.
 
