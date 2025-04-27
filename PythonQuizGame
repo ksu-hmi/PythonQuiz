@@ -17,8 +17,8 @@ quiz_data = [
         "answer": "B"
     },
     {
-        "question": "What does the acronym SQL stand for?",
-        "options": ["A. Structured Query Language", "B. Simple Query Language", "C. Standard Query Language", "D. Sequential Query Language"],
+        "question": "What data type is the result of 5 + 3 in Python?",
+        "options": ["A. int", "B. num", "C. digit", "D. str"],
         "answer": "A"
     },
     {
