@@ -22,8 +22,8 @@ quiz_data = [
         "answer": "A"
     },
     {
-        "question": "Which programming language is often used for data analysis and scientific computing?",
-        "options": ["A. JavaScript", "B. Java", "C. Python", "D. C++"],
+        "question": "How do you insert comments in Python Code?",
+        "options": [ "A. // This is a comment", "B. /* This is a comment */", "C. # This is a comment", "D. -- This is a comment"],
         "answer": "C"
     },
     {
