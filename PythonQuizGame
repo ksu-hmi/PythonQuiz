@@ -83,8 +83,8 @@ quiz_data = [
     },
     {
         "question":"What happens when you try to add an integer and a string in Python, like `3 + '3'`?",
-        "options": ["A.  , "B. '33'", "C. TypeError", "D. '6'"],
-        "answer": "C"
+        "options": ["A. Python returns none"  , "B. '33'", "C. TypeError", "D. '6'"],
+        "answer": "B"
     },
     {
         "question": "Which programming language is often used for developing mobile applications?",
