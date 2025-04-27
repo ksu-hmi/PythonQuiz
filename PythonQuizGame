@@ -12,9 +12,9 @@ quiz_data = [
         "answer": "D"
     },
     {
-        "question": "What is the primary function of CSS in web development?",
-        "options": ["A. Data storage", "B. Styling and layout", "C. Server-side scripting", "D. Database management"],
-        "answer": "B"
+        "question": "What is the correct file extension for Python files??",
+        "options": ["A. .pt", "B. .pyt", "C. .py", "D. .python"],
+        "answer": "C"
     },
     {
         "question": "What data type is the result of 5 + 3 in Python?",
@@ -22,8 +22,8 @@ quiz_data = [
         "answer": "A"
     },
     {
-        "question": "Which programming language is often used for data analysis and scientific computing?",
-        "options": ["A. JavaScript", "B. Java", "C. Python", "D. C++"],
+        "question": "How do you insert comments in Python Code?",
+        "options": [ "A. // This is a comment", "B. /* This is a comment */", "C. # This is a comment", "D. -- This is a comment"],
         "answer": "C"
     },
     {

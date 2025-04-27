@@ -2,8 +2,8 @@ import random
 #Question to be asked
 quiz_data = [
     {
-        "question": "What does HTML stand for?",
-        "options": ["A. Hyperlink Text Markup Language", "B. Hyper Transfer Markup Language", "C. Hypertext Markup Language", "D. High-Level Text Markup Language"],
+        "question": "Which keyword is used for a loop in Python??",
+        "options": ["A. def", "B. insert", "C. loop", "D. print"],
         "answer": "C"
     },
     {
@@ -12,23 +12,23 @@ quiz_data = [
         "answer": "D"
     },
     {
-        "question": "What is the primary function of CSS in web development?",
-        "options": ["A. Data storage", "B. Styling and layout", "C. Server-side scripting", "D. Database management"],
-        "answer": "B"
+        "question": "What is the correct file extension for Python files?",
+        "options": ["A. .pt", "B. .pyt", "C. .py", "D. .python"],
+        "answer": "C"
     },
     { 
-        "question": "GitHub is VCS, what does that stand for?",
-        "options": [ "A. Version Compliance System", "B. Verified Control System", "C. Version Control System", "D. Very Crazy System"],
+        "question": "How do you insert comments in Python Code?",
+        "options": [ "A. // This is a comment", "B. /* This is a comment */", "C. # This is a comment", "D. -- This is a comment"],
         "answer": "C"
     },
     {
-       "questions": " In GitHub what does the term CLONE do?",
-       "options": [ "A. Add a file to a commint", "B. Stage changes with a message", "C. Pull down commints from repository", "D. Download a copy of a repository"],
-       "answer" : "D"
+       "questions": " In Python, what does the len() function do?",
+       "options": [ "A. Deletes a variable", "B. Returns the length of an object", "C. Counts integers only", "D. Prints the object"],
+       "answer": "B"
     },
     {
-        "question": "What does the acronym SQL stand for?",
-        "options": ["A. Structured Query Language", "B. Simple Query Language", "C. Standard Query Language", "D. Sequential Query Language"],
+        "question": "Which is the correct way to create a function on Python?",
+        "options": ["A. def myFunction ()", "B. function myFunction()", "C. func myFunction()", "D. create myFunction()"],
         "answer": "A"
     },
     {
