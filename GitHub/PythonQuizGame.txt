@@ -22,13 +22,13 @@ quiz_data = [
         "answer": "C"
     },
     {
-       "questions": " In Python what does the len() function do?",
+       "questions": " In Python, what does the len() function do?",
        "options": [ "A. Deletes a variable", "B. Returns the length of an object", "C. Counts integers only", "D. Prints the object"],
-       "answer" : "B"
+       "answer": "B"
     },
     {
-        "question": "What does the acronym SQL stand for?",
-        "options": ["A. Structured Query Language", "B. Simple Query Language", "C. Standard Query Language", "D. Sequential Query Language"],
+        "question": "Which is the correct way to create a function on Python?",
+        "options": ["A. def myFunction ()", "B. function myFunction()", "C. func myFunction()", "D. create myFunction()"],
         "answer": "A"
     },
     {
