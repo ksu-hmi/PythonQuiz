@@ -73,7 +73,7 @@ quiz_data = [
     },
     {
         "question": "What is the main role of a constructor in object-oriented programming?",
-        "options": ["A. It initializes a new object when a class is called", "B. It deletes an existing object from memory", "C.  It adds new methods to a class"", "D. It changes the class inheritance"],
+        "options": ["A. It initializes a new object when a class is called", "B. It deletes an existing object from memory", "C.  It adds new methods to a class", "D. It changes the class inheritance"],
         "answer": "A"
     },
     {
