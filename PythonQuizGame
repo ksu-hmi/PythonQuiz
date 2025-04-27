@@ -95,6 +95,26 @@ quiz_data = [
         "question": "What is the purpose of the `if` statement in programming?",
         "options": ["A. To check if a condition is met before running code", "B. To declare a list of items", "C. To handle user input", "D. To import external files"],
         "answer": "A"
+    },
+    {
+        "question": "GitHub is a VCS, what does that stand for?",
+        "options": ["A. Version Compliance System", "B. Verified Control System ", "C. Version Control System", "D. Very Crazy System"],
+        "answer": "C"
+    },
+    {
+        "question": "What does CLONE do in GitHub?",
+        "options": ["A. Add a file to a commit", "B. Stage changes with a message", "C. Copy a commit to repository", "D. Download a copy of a repository"],
+        "answer": "D"
+    },
+    {
+        "question": "Which of these is a valid variable name in Python?",
+        "options": [ "A. 2cool", "B. cool_2", " C. cool-2", "D. @cool"],
+        "answer": "B"
+    },
+    {
+        "question": " Which one of these is a list in Python?",
+        "options": [ "A. {1,2,3}", "B. (1,2,3)", "C. [1,2,3]", "D. 1,2,3"],
+        "answer": "B"
     }
 ]
 #displaying content
