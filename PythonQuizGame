@@ -68,7 +68,7 @@ quiz_data = [
     },
     {
         "question": "In Python, which library is commonly used for data visualization?",
-        "options": ["A. NumPy", "B. Pandas", "C. Matplotlib", "D. TensorFlow"],
+        "options": ["A. Seaborn", "B. Matplotlib ", "C. Matplotlib", "D. BeautifulSoup "],
         "answer": "C"
     },
     {
