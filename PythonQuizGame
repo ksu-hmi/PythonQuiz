@@ -13,8 +13,8 @@ quiz_data = [
     },
     {
         "question": "What is the correct file extension for Python files??",
-        "options": ["A. Data storage", "B. Styling and layout", "C. Server-side scripting", "D. Database management"],
-        "answer": "B"
+        "options": ["A. .pt", "B. .pyt", "C. .py", "D. .python"],
+        "answer": "C"
     },
     {
         "question": "What data type is the result of 5 + 3 in Python?",
