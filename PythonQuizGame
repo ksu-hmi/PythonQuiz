@@ -78,12 +78,12 @@ quiz_data = [
     },
     {
         "question": "Which of the following is not a valid Python data type?",
-        "options": ["A. float", "B. string", "C. double", "D. dict"],
-        "answer": "B"
+        "options": ["A. Python converts both to strings and returns '33'", "B. Python converts both to integers and returns 6", "C. Python raises a TypeError", "D. Python returns None"],
+        "answer": "C"
     },
     {
-        "question": "What is the result of the following Python code: `3 + '3'`?",
-        "options": ["A. 6", "B. '33'", "C. TypeError", "D. '6'"],
+        "question":"What happens when you try to add an integer and a string in Python, like `3 + '3'`?",
+        "options": ["A.  , "B. '33'", "C. TypeError", "D. '6'"],
         "answer": "C"
     },
     {
