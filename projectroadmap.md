@@ -11,9 +11,9 @@ Scoring: +1 for correct, 0 for wrong. 17-20 points = Excellent. 12-17 points = G
 2. Organize Your Data
 Task: Store quiz questions in a structured format.
 
-To Do: #THIS WEEK WE WILL BE CREATING OUR CODE AND MAKING THE CORRECT CHNAGES NEEDED#
+To Do: #THIS WEEK WE WILL BE CREATING OUR CODE AND MAKING THE CORRECT CHANGES NEEDED#
 
-Use a list of dictionaries:
+Use a list of dictionaries: THIS IS DONE
 
 python
 Copy
