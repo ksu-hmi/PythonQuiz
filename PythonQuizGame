@@ -72,8 +72,8 @@ quiz_data = [
         "answer": "C"
     },
     {
-        "question": "What is the purpose of a constructor method in object-oriented programming?",
-        "options": ["A. To create objects", "B. To destroy objects", "C. To update objects", "D. To copy objects"],
+        "question": "What is the main role of a constructor in object-oriented programming?",
+        "options": ["A. It initializes a new object when a class is called"", "B. It deletes an existing object from memory", "C.  It adds new methods to a class"", "D. It changes the class inheritance"],
         "answer": "A"
     },
     {
