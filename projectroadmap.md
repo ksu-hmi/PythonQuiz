@@ -6,7 +6,7 @@ Decide on the number of questions: We decided as a group that we would develop 1
 
 Questions format: Each has a question, 4 options, and a correct answer.
 
-Scoring: +1 for correct, 0 for wrong.
+Scoring: +1 for correct, 0 for wrong. 17-20 points = Excellent. 12-17 points = Good. 7-12 points = Needs Improvement. 0-7 points = Fail
 
 2. Organize Your Data
 Task: Store quiz questions in a structured format.
