@@ -78,7 +78,7 @@ quiz_data = [
     },
     {
         "question": "Which of the following is not a valid Python data type?",
-        "options": ["A. int", "B. double", "C. list", "D. tuple"],
+        "options": ["A. float", "B. string", "C. double", "D. dict"],
         "answer": "B"
     },
     {
