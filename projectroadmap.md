@@ -2,7 +2,7 @@ Project Roadmap: Python Quiz
 1. Plan the Basics
 Goal: A console-based quiz where users answer multiple-choice questions on Python knowledge.
 
-Decide on the number of questions: We decided as a group that we would develop 15-20 questions.
+Decide on the number of questions: We decided as a group that we would develop 15-20 questions. (THIS IS DONE)
 
 Questions format: Each has a question, 4 options, and a correct answer.
 
