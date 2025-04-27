@@ -13,7 +13,7 @@ Task: Store quiz questions in a structured format.
 
 To Do: #THIS WEEK WE WILL BE CREATING OUR CODE AND MAKING THE CORRECT CHANGES NEEDED#
 
-Use a list of dictionaries: THIS IS DONE
+Use a list of dictionaries: (THIS IS DONE)
 
 python
 Copy
@@ -29,7 +29,7 @@ Task: Display questions and collect user input.
 
 To Do:
 
-Use a loop to go through each question.
+Use a loop to go through each question. (THIS IS NOT DONE)
 
 Show question and options.
 
