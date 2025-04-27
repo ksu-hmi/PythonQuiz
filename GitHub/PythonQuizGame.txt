@@ -22,9 +22,9 @@ quiz_data = [
         "answer": "C"
     },
     {
-       "questions": " In GitHub what does the term CLONE do?",
-       "options": [ "A. Add a file to a commint", "B. Stage changes with a message", "C. Pull down commints from repository", "D. Download a copy of a repository"],
-       "answer" : "D"
+       "questions": " In Python what does the len() function do?",
+       "options": [ "A. Deletes a variable", "B. Returns the length of an object", "C. Counts integers only", "D. Prints the object"],
+       "answer" : "B"
     },
     {
         "question": "What does the acronym SQL stand for?",
