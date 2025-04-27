@@ -4,16 +4,16 @@ Goal: A console-based quiz where users answer multiple-choice questions on Pytho
 
 Decide on the number of questions: We decided as a group that we would develop 15-20 questions. (THIS IS DONE)
 
-Questions format: Each has a question, 4 options, and a correct answer. (THIS IS DONE)
+Question format: Each has a question, 4 options, and a correct answer. (THIS IS DONE)
 
 Scoring: +1 for correct, 0 for wrong. 17-20 points = Excellent. 12-17 points = Good. 7-12 points = Needs Improvement. 0-7 points = Fail
 
 2. Organize Your Data
 Task: Store quiz questions in a structured format.
 
-To Do:
+To Do: #THIS WEEK WE WILL BE CREATING OUR CODE AND MAKING THE CORRECT CHANGES NEEDED#
 
-Use a list of dictionaries:
+Use a list of dictionaries: (THIS IS DONE)
 
 python
 Copy
@@ -29,7 +29,7 @@ Task: Display questions and collect user input.
 
 To Do:
 
-Use a loop to go through each question.
+Use a loop to go through each question. (THIS IS DONE)
 
 Show question and options.
 
@@ -40,26 +40,26 @@ Check if the answer is correct.
 Keep score.
 
  4. Add Feedback and Score
-Task: Show correct/incorrect and final result.
+Task: Show correct/incorrect and final result. (THIS IS DONE)
 
 To Do:
 
-Show feedback after each question.
+Show feedback after each question. (WE WILL NOT ADD FEEDBACK AFTER EACH QUESTION)
 
-Display the final score at the end.
+Display the final score at the end. (THIS HAS BEEN ADDED TO OUR CODE)
 
  5. Clean Up the User Interface
 Task: Improve readability.
 
 To Do:
 
-Add line breaks.
+Add line breaks. (WE HAVE ADDED THIS TO OUR CODE)
 
 Number the questions.
 
 Clear or separate each question visually.
  6. (Optional) Add Features
-Here’s where you can get creative:
+
 
 Timer for each question.
 

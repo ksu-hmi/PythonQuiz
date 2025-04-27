@@ -27,9 +27,9 @@ quiz_data = [
         "answer": "C"
     },
     {
-        "question": "What does API stand for in the context of web development?",
-        "options": ["A. Application Programming Interface", "B. Advanced Programming Interface", "C. Automated Program Interaction", "D. All of the above"],
-        "answer": "A"
+      "questions": " In Python, what does the len() function do?",
+       "options": [ "A. Deletes a variable", "B. Returns the length of an object", "C. Counts integers only", "D. Prints the object"],
+       "answer": "B"
     },
     {
         "question": "In Python, which keyword is used to define a function?",
