@@ -4,7 +4,7 @@ Goal: A console-based quiz where users answer multiple-choice questions on Pytho
 
 Decide on the number of questions: We decided as a group that we would develop 15-20 questions. (THIS IS DONE)
 
-Questions format: Each has a question, 4 options, and a correct answer.
+Questions format: Each has a question, 4 options, and a correct answer. (THIS IS DONE)
 
 Scoring: +1 for correct, 0 for wrong. 17-20 points = Excellent. 12-17 points = Good. 7-12 points = Needs Improvement. 0-7 points = Fail
 
