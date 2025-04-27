@@ -12,13 +12,13 @@ quiz_data = [
         "answer": "D"
     },
     {
-        "question": "What is the primary function of CSS in web development?",
-        "options": ["A. Data storage", "B. Styling and layout", "C. Server-side scripting", "D. Database management"],
-        "answer": "B"
+        "question": "What is the correct file extension for Python files?",
+        "options": ["A. .pt", "B. .pyt", "C. .py", "D. .python"],
+        "answer": "C"
     },
     { 
-        "question": "GitHub is VCS, what does that stand for?",
-        "options": [ "A. Version Compliance System", "B. Verified Control System", "C. Version Control System", "D. Very Crazy System"],
+        "question": "How do you insert comments in Python Code?",
+        "options": [ "A. // This is a comment", "B. /* This is a comment */", "C. # This is a comment", "D. -- This is a comment"],
         "answer": "C"
     },
     {
