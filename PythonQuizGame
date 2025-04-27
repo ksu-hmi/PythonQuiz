@@ -93,8 +93,8 @@ quiz_data = [
     },
     {
         "question": "What is the purpose of the `if` statement in programming?",
-        "options": ["A. To perform a loop", "B. To declare a function", "C. To make decisions based on conditions", "D. To define a class"],
-        "answer": "C"
+        "options": ["A. To check if a condition is met before running code", "B. To declare a list of items", "C. To handle user input", "D. To import external files"],
+        "answer": "A"
     }
 ]
 #displaying content
