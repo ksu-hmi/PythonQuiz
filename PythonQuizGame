@@ -7,8 +7,8 @@ quiz_data = [
         "answer": "C"
     },
     {
-        "question": "Which programming language is often used for web development?",
-        "options": ["A. Python", "B. Java", "C. Ruby", "D. JavaScript"],
+        "question": "Which programming language is often used for automation and scripting?",
+        "options": ["A. Javascript", "B. Java", "C. Ruby", "D. Python"],
         "answer": "D"
     },
     {
