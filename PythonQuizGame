@@ -88,7 +88,7 @@ quiz_data = [
     },
     {
         "question": "Which programming language is often used for developing mobile applications?",
-        "options": ["A. Java", "B. Python", "C. C#", "D. PHP"],
+        "options": ["A. Java", "B. Swift", "C. Ruby", "D. Kotlin"],
         "answer": "A"
     },
     {
