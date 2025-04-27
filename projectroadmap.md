@@ -29,7 +29,7 @@ Task: Display questions and collect user input.
 
 To Do:
 
-Use a loop to go through each question. (THIS IS NOT DONE)
+Use a loop to go through each question. (THIS IS DONE)
 
 Show question and options.
 
@@ -40,26 +40,26 @@ Check if the answer is correct.
 Keep score.
 
  4. Add Feedback and Score
-Task: Show correct/incorrect and final result.
+Task: Show correct/incorrect and final result. (THIS IS DONE)
 
 To Do:
 
-Show feedback after each question.
+Show feedback after each question. (WE WILL NOT ADD FEEDBACK AFTER EACH QUESTION)
 
-Display the final score at the end.
+Display the final score at the end. (THIS HAS BEEN ADDED TO OUR CODE)
 
  5. Clean Up the User Interface
 Task: Improve readability.
 
 To Do:
 
-Add line breaks.
+Add line breaks. (WE HAVE ADDED THIS TO OUR CODE)
 
 Number the questions.
 
 Clear or separate each question visually.
  6. (Optional) Add Features
-Here’s where you can get creative:
+
 
 Timer for each question.
 
