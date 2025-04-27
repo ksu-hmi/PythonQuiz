@@ -73,4 +73,7 @@ Add categories (e.g., Basics, Functions, Loops).
 
 Build a GUI using Tkinter or a web version with Flask.
 
+Started Power Point presentation for team mates to add to.
+Added Power Point slide to README.md to better explain our version and outcome.
+Came up with an additional 4 questions to add to the quiz that I thought would be great additions. 
 
