@@ -7,7 +7,7 @@ Decide on the number of questions: We decided to develop 15-20 questions as a gr
 
 Question format: Each has a question, 4 options, and a correct answer. (THIS IS DONE)
 
-Scoring: +1 for correct, 0 for wrong. **Even though we have 20 questions, our quiz is broken up into 4 sections, where each section gets a set of 5 questions. At the end of each set, the score is displayed as such "2/5 or 5/5"
+Scoring: +1 for correct, 0 for wrong. **Even though we have 20 questions, our quiz is broken up into 4 sections, where each section gets a set of 5 questions. At the end of each set, the score is displayed as such "You scored 2/5"
 
 2. Organize Our Data
 Task: Store quiz questions in a structured format. (THIS IS DONE)
