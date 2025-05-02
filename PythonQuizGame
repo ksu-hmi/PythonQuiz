@@ -7,11 +7,6 @@ quiz_data = [
         "answer": "C"
     },
     {
-        "question": "Which programming language is often used for automation and scripting?",
-        "options": ["A. Javascript", "B. Java", "C. Ruby", "D. Python"],
-        "answer": "D"
-    },
-    {
         "question": "What is the correct file extension for Python files??",
         "options": ["A. .pt", "B. .pyt", "C. .py", "D. .python"],
         "answer": "C"
@@ -52,11 +47,6 @@ quiz_data = [
         "answer": "C"
     },
     {
-        "question": "What is the primary purpose of version control systems like Git?",
-        "options": ["A. To write code", "B. To run code", "C. To manage and track changes in code", "D. To execute code"],
-        "answer": "C"
-    },
-    {
         "question": "Which of the following is used to define a block of code in Python?",
         "options": ["A. Braces[]", "B. Parentheses()", "C. Indentation", "D. Begin-End"],
         "answer": "C"
@@ -71,11 +61,7 @@ quiz_data = [
         "options": ["A. Seaborn", "B. Matplotlib ", "C. Matplotlib", "D. BeautifulSoup "],
         "answer": "C"
     },
-    {
-        "question": "What is the main role of a constructor in object-oriented programming?",
-        "options": ["A. It initializes a new object when a class is called", "B. It deletes an existing object from memory", "C.  It adds new methods to a class", "D. It changes the class inheritance"],
-        "answer": "A"
-    },
+    
     {
         "question": "Which of the following is not a valid Python data type?",
         "options": ["A. Python converts both to strings and returns '33'", "B. Python converts both to integers and returns 6", "C. Python raises a TypeError", "D. Python returns None"],
