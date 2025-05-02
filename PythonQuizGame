@@ -62,8 +62,8 @@ quiz_data = [
         "answer": "C"
     },
     {
-        "question": "What is the HTTP status code for a successful response?",
-        "options": ["A. 200 OK", "B. 404 Not Found", "C. 500 Internal Server Error", "D. 302 Found"],
+        "question": "What keyword is used to create a class in Python?",
+        "options": ["A. class", "B. def", "C. define", "D. struct"],
         "answer": "A"
     },
     {
