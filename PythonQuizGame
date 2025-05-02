@@ -57,9 +57,9 @@ quiz_data = [
         "answer": "C"
     },
     {
-        "question": "What is the main advantage of object-oriented programming (OOP)?",
-        "options": ["A. Simplicity", "B. Reusability", "C. Procedural nature", "D. No need for functions"],
-        "answer": "B"
+        "question": "Which of the following is used to define a block of code in Python?",
+        "options": ["A. Braces[]", "B. Parentheses()", "C. Indentation", "D. Begin-End"],
+        "answer": "C"
     },
     {
         "question": "What is the HTTP status code for a successful response?",
