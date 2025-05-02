@@ -82,14 +82,14 @@ quiz_data = [
         "answer": "C"
     },
     {
-        "question":"What happens when you try to add an integer and a string in Python, like `3 + '3'`?",
-        "options": ["A. Python returns none"  , "B. '33'", "C. TypeError", "D. '6'"],
+        "question": "What happens when you try to add an integer and a string in Python, like `3 + '3'`?",
+        "options": ["A. Python returns none" , "B. '33'", "C. TypeError", "D. '6'"],
         "answer": "B"
     },
     {
-        "question": "Which programming language is often used for developing mobile applications?",
-        "options": ["A. Java", "B. Swift", "C. Ruby", "D. Kotlin"],
-        "answer": "A"
+        "question": "Which built-in function returns the largest item in an iterable?",
+        "options": ["A. biggest()", "B. max()", "C. large()", "D. maximum()"],
+        "answer": "B"
     },
     {
         "question": "What is the purpose of the `if` statement in programming?",
