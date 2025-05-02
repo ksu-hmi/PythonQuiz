@@ -6,10 +6,10 @@ Decide on the number of questions: We decided as a group that we would develop 1
 
 Question format: Each has a question, 4 options, and a correct answer. (THIS IS DONE)
 
-Scoring: +1 for correct, 0 for wrong. 17-20 points = Excellent. 12-17 points = Good. 7-12 points = Needs Improvement. 0-7 points = Fail
+Scoring: +1 for correct, 0 for wrong. 17-20 points = Excellent. 12-17 points = Good. 7-12 points = Needs Improvement. 0-7 points = Fail (THIS HAS BEEN IMPLEMENTED INTO OUR CODE)
 
-2. Organize Your Data
-Task: Store quiz questions in a structured format.
+2. Organize Our Data
+Task: Store quiz questions in a structured format. (THIS IS DONE)
 
 To Do: #THIS WEEK WE WILL BE CREATING OUR CODE AND MAKING THE CORRECT CHANGES NEEDED#
 
@@ -31,7 +31,7 @@ To Do:
 
 Use a loop to go through each question. (THIS IS DONE)
 
-Show question and options.
+Show question and options. (THIS IS DONE)
 
 Get and validate user input (a, b, c, or d).
 
@@ -58,16 +58,11 @@ Add line breaks. (WE HAVE ADDED THIS TO OUR CODE)
 Number the questions.
 
 Clear or separate each question visually.
- 6. (Optional) Add Features
+ 6. (Optional) Add Features (WE WILL NOT BE ADDING THIS ON TO OUR CODE)
 
-
-Timer for each question.
-
-Load questions from a .json or .csv file.
+***TAYLOR, ALIEHSA,DANNY, AND MICHAEL WENT AHEAD AND ADDED 4 OR MORE QUESTIONS INTO THE CODE EACH***
 
 Randomize question order.
-
-Show explanations after answers.
 
 Add categories (e.g., Basics, Functions, Loops).
 
