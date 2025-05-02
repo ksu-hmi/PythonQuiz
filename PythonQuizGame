@@ -42,9 +42,9 @@ quiz_data = [
         "answer": "C"
     },
     {
-        "question": "In JavaScript, how do you declare a variable?",
-        "options": ["A. var", "B. variable", "C. let", "D. declare"],
-        "answer": "A"
+        "question": "Which of the following is not a valid Python data type?",
+        "options": ["A. set", "B. list", "C. array", "D. tuple"],
+        "answer": "c"
     },
     {
         "question": "Which data type in Python is used to represent a sequence of characters?",
