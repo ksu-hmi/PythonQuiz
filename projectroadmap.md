@@ -62,11 +62,11 @@ Clear or separate each question visually.
 
 ***TAYLOR, ALIEHSA,DANNY, AND MICHAEL WENT AHEAD AND ADDED 4 OR MORE QUESTIONS INTO THE CODE EACH***
 
-Randomize question order.
+Randomize question order. (THIS IS DONE)
 
-Add categories (e.g., Basics, Functions, Loops).
+Add categories (e.g., Basics, Functions, Loops). (THIS IS DONE)
 
-Build a GUI using Tkinter or a web version with Flask.
+Build a GUI using Tkinter or a web version with Flask. (THIS IS A PART OF THE CODE THAT WE ARE HAVING ISSUES WITH)
 
 Started Power Point presentation for team mates to add to.
 Added Power Point slide to README.md to better explain our version and outcome.
